@@ -7,6 +7,6 @@ How to reach me 📫 :
 * Facebook: [bishma muchammad aria](https://web.facebook.com/bishma.muchammadaria/)
 
 * Medium: [@bishmamuchammadaria](https://medium.com/@bishmamuchammadaria)
-* Instagram: [@bishma_m_aria](https://instagram.com/bishma_m_aria)
+* Instagram: [bishma_m_aria](https://instagram.com/bishma_m_aria)
 
 Always 🌱 learning.
