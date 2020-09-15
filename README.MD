@@ -1,6 +1,6 @@
 ## Aria Bishma
 
-Location: [Majalengka](https://www.majalengka.go.id), [Indonesia](https://indonesia.go.id/). Timezone: [UTC+7](https://www.timeanddate.com/worldclock/indonesia/jakarta).
+Location: [Majalengka](https://www.majalengkakab.go.id), [Indonesia](https://indonesia.go.id/). Timezone: [UTC+7](https://www.timeanddate.com/worldclock/indonesia/jakarta).
 
 How to reach me 📫 :
 * Email: [ariabishma848](mailto:ariabishma848@gmail.com)
