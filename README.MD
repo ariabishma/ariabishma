@@ -3,7 +3,7 @@
 Location: [Majalengka](https://www.majalengkakab.go.id), [Indonesia](https://indonesia.go.id/). Timezone: [UTC+7](https://www.timeanddate.com/worldclock/indonesia/jakarta).
 
 Hi there 👋 , Im  Aria Bishma , you can call me **Aria** or **Bishma** !. 
-i'am a Full-Stack(Sometimes Stuck) Developer. I love (Sometimes Hate) everything related to technology, especially (now) Machine Learning. here, I want to share my learning journey's code to everyone..
+i'am a Full-Stack(Sometimes Stuck) Developer. I love (Sometimes Hate) everything related to technology, especially (now) Machine Learning. here, I will share my learning journey's code to everyone (if i'm in mood)..
 
 Thankyou..
 
