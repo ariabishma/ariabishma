@@ -3,7 +3,7 @@
 Location: [Majalengka](https://www.majalengkakab.go.id), [Indonesia](https://indonesia.go.id/). Timezone: [UTC+7](https://www.timeanddate.com/worldclock/indonesia/jakarta).
 
 Hi there 👋 , I'm  Aria Bishma , you can call me **Aria** or **Bishma** !. 
-I'm a software developer with a strong passion for AI, particularly computer vision and machine learning.
+a software developer driven by a passion for AI, particularly computer vision and machine learning. I am eager to contribute my skills to challenging and impactful projects.
 
 Thank you..
 
