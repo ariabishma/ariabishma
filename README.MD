@@ -9,7 +9,6 @@ Thank you..
 
 How to reach me 📫 :
 * Email: [ariabishma848](mailto:ariabishma848@gmail.com)
-* Facebook: [bishma muchammad aria](https://web.facebook.com/bishma.muchammadaria/)
 
 * Medium: [@bishmamuchammadaria](https://medium.com/@bishmamuchammadaria)
 * Instagram: [ariabishma](https://instagram.com/ariabishma)
